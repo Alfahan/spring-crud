@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.rumah.kita.spring_crud.dtos.LearnDTO;
 import com.rumah.kita.spring_crud.dtos.LearnDTO.RequestLearnDTO;
 import com.rumah.kita.spring_crud.dtos.LearnDTO.ResponseLearnDTO;
 import com.rumah.kita.spring_crud.services.LearnServices;
